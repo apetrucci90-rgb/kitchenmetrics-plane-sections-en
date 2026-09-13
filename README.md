@@ -13,8 +13,9 @@ wanders about in a dark labyrinth.»
 
 **Why this idea is public.** Andrea Petrucci, the method's originator:
 
-> "We publish it — we are the first to do so regardless, and knowledge sets
-> us free and is a common good."
+> "We publish it: we think we are the first to do so, since we have found no
+> scientific literature on it, and knowledge sets us free and is a common
+> good."
 
 *Sapere Aude* — dare to know, dare to use your own reason. **No one should be
 able to profit privately from an idea that should stay public**: science

@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: >-
+  If you reference the repeated-plane-sections-with-cavity method, please
+  cite it as below.
+title: "Plane sections and cavities: a new method for an old kitchen problem"
+abstract: >-
+  Priority-of-publication declaration for a repeated-plane-sections method
+  (Cavalieri's principle applied station by station) with a deduced or
+  measured internal cavity, applied to both heating (cooking) and cooling
+  (freezing) times for whole, irregular and hollow bodies — as far as the
+  author knows, the first published application of this method to this
+  problem. Companion to the KitchenMetrics app.
+authors:
+  - family-names: Petrucci
+    given-names: Andrea
+type: generic
+repository-code: "https://github.com/apetrucci90-rgb/kitchenmetrics-plane-sections-en"
+license-url: "https://polyformproject.org/licenses/noncommercial/1.0.0"
+date-released: 2026-09-13
+keywords:
+  - cooking science
+  - heat transfer
+  - freezing time
+  - plane sections
+  - Cavalieri's principle
+  - hollow carcass

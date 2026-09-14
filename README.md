@@ -57,7 +57,7 @@ Over **450 times more precise**, on the identical reading. Confirmed too on
 an oblate ellipsoid (1340.07 vs. 1340.41 cm³, −0.03%) and a hollow tube (wall
 thickness 2.99949 vs. 3.00000 cm, −0.02%).
 
-*Reproducible: `node tests/plane_sections_report.js`.*
+*Reproducible: `node tests/plane_sections_report.js`, in the application's repository (private today — not yet extracted standalone into this public repository).*
 
 ## 3 · What changes for a real FREEZING time
 
@@ -120,7 +120,7 @@ differences) independent of the classical formula.
 | **Energy conservation** | Heat entering and leaving, integrated over time, must match the energy actually gained or lost (sensible heat + the latent heat of the ice forming) | **1.49% difference** (threshold 2%) |
 | **Grid convergence** | Refining the computational grid should shrink the error predictably | **Exactly 4x smaller** at each refinement — the theoretically perfect rate |
 
-*Reproducible: `python docs/asymmetric_wall_freezing_conduction.py`.*
+*Reproducible: `python asymmetric_wall_freezing_conduction.py`, included in this same repository (standalone script, standard library only).*
 
 ## 6 · Two examples, identical measurements — one solid carcass, one hollow
 
@@ -209,7 +209,7 @@ catalogued with its own history, often born from a real bug found and fixed
 — covers geometry, thermal transfer, freezing, lethality/safety, and the
 app's own claims about itself.
 
-*Reproducible: `node tests/run_all.js` from the repository root.*
+*Reproducible: `node tests/run_all.js` from the application repository's root (private today).*
 
 ## 10 · Why we are publishing now
 
